@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>South East Asia</title>
+</head>
+<center>
+<div>
+    <h2 class = "response" >South East Asian Covid Response:</h2>
+<p class = "response" style="font-size: 25px">
+    Ranging from Cambodia to Singapore, southeast Asia has done an excellent job in controlling the spread of the disease. Countries such as Cambodia imposed harsh lockdowns, with rule-breakers
+    facing up to twenty years of jail-time. Vietnam was one of the few nations in the world to undergo positive economic change in 2020 because of it's swift response. However, this success has not
+    been shared throughout the region. Both the Philippines and Indonesia struggled to contain Covid and faced a sharp recession. With many countries in the region handing out free vaccines to
+    their citizens, southeast Asia looks to move on from Covid-19.
+</p>
+<br>
+    <figure>
+    <img src="https://cdnuploads.aa.com.tr/uploads/Contents/2020/07/06/thumbs_b_c_82673c405406e7f72f0fc223236b2bf7.jpg?v=174605" alt = "image unavailable" height = "242" width = "415">
+   <figcaption>Jakarta, Indonesia quickly became a Covid hotspot in the region</figcaption>
+    </figure>
+</div>
+</center>
+</html>
