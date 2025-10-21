@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Africa</title>
+</head>
+<center>
+<div>
+    <h2 class = "response" >African COVID-19 Response</h2>
+<p class = "response" style="font-size: 25px">
+African COVID-19 response was successful because of harsh lockdowns. Social distancing also took place in Africa. Social media was used for coronavirus prevention information. Student volunteers
+helped with forcing people to follow the guidelines for coronavirus. Food was provided to people who were vulnerable. Technology like robots were used for temperature readings in the public. Drones
+were used for communicating to many people in Rwanda.
+</p>
+<br>
+    <figure>
+    <img src="https://media.npr.org/assets/img/2020/07/13/gettyimages-1214305129-03f848218a4796c5b141426d9b2ee45cd689a907.jpg?s=1000" alt = "image unavailable" height = "374" width = "500">
+   <figcaption>Robots were used in Kigali, the capital of Rwanda.</figcaption>
+    </figure>
+</div>
+</center>
+</html>
