@@ -1,0 +1,22 @@
+<html>
+<div style="background-color:#00ffbf">
+<center>
+<h2 class="virus">Virus Info:</h2>
+<p class="virus">Covid-19 is a a particular strain of coronaviruses. It was discovered in December of 2019 in the Wuhan region of China, and since then it has infected
+    millions around the world. It is a respiratory illness which causes symptoms ranging from a light cough to severe pneumonia. Although no cure exists for the virus, there are ways to curb the spread of the disease through
+    face-masks, self-isolation, and social distancing. The creation of multiple working vaccines provided the world with hope and a pathway towards a Covid-19 free future.
+<br>
+<img src="https://www.statnews.com/wp-content/uploads/2020/02/Coronavirus-CDC-645x645.jpg" alt = "image unavailable" height = "200" width="200">
+</p>
+<h2 class="frontline workers"> Support Frontline Workers</h2>
+    <p
+            class="Thank you">Front line workers around the world have made tremendous sacrifices since the beginning of the pandemic. They are the definition of a modern day superhero. A simple
+    thank you goes a long way.
+    <br>
+        <img src = "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/1208907300-1280x720.jpg?itok=FMzU5Mu2" alt = "image unavailable" height="269" width="500">
+        <img src="https://www.iberkshires.com/images/feature/1586269519.jpg " alt = "image unavailable" height = "269" width = "500">
+    </p>
+
+</center>
+</div>
+</html>
